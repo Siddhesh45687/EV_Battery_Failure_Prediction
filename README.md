@@ -6,6 +6,13 @@ The project uses **XGBoost** for binary classification and includes data preproc
 
 ---
 
+## 🚀 Live Demo
+
+- 📊 **Live Dashboard:** [View EV Battery Analytics Dashboard](https://siddhesh45687.github.io/EV_Battery_Failure_Prediction/)
+- 🤖 **Live Application:** [Try EV Battery Failure Predictor](https://ev-battery-failure-predictor.streamlit.app/)
+
+--
+
 ## 🏷️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
